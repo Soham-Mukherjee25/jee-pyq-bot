@@ -1,0 +1,12 @@
+{
+  "name": "jee-pyq-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for JEE PYQs",
+  "main": "api/webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
